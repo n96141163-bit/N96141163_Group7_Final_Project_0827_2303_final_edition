@@ -39,4 +39,4 @@
 
 
 
-●目前圖片檔太大放不上去，請預留一個Image/的資料夾路徑
+●目前圖片檔太大放不上去，請預留一個Image/的資料夾路徑，前往此連結下載資源：https://drive.google.com/drive/folders/1cDOhj2WqGkX1I9D9P7Hkc7-92lkoNYjf?usp=drive_link
